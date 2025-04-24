@@ -110,3 +110,11 @@ Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](L
 ---
 
 Este README fornece todas as informações necessárias sobre como usar o repositório, o que será instalado e as configurações feitas, de forma simples e direta. Agora, ao rodar o script `install.sh`, o usuário terá uma ideia clara do que está sendo configurado no sistema.
+
+---
+
+## 🔗 Repositório Original
+
+O **AstroVim** instalado, contém uma cópia do **AstroVim** adaptada para minhas preferências. O repositório original do **AstroVim Template** pode ser encontrado no seguinte link:
+
+[https://github.com/AstroNvim/template](https://github.com/AstroNvim/template)
