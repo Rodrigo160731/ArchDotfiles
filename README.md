@@ -1,6 +1,3 @@
-Entendido! Aqui está o **README.md** completo, com as instruções de uso e as listas de ferramentas e configurações que o script irá instalar e configurar. Todo o conteúdo estará dentro do próprio arquivo **README.md**.
-
-```markdown
 # ArchDotfiles
 
 Este repositório contém minha configuração personalizada para sistemas Arch Linux e derivados. Ao executar o script `install.sh`, você configurará seu ambiente de desenvolvimento com as ferramentas e configurações descritas abaixo.
@@ -110,10 +107,6 @@ Este setup foi desenvolvido para sistemas baseados no Arch Linux e seus derivado
 
 Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-```
-
 ---
 
 Este README fornece todas as informações necessárias sobre como usar o repositório, o que será instalado e as configurações feitas, de forma simples e direta. Agora, ao rodar o script `install.sh`, o usuário terá uma ideia clara do que está sendo configurado no sistema.
-
-Se precisar de mais alguma alteração ou adicionar detalhes, é só avisar!
